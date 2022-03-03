@@ -2,5 +2,6 @@ hola esto es una prueba
 del curso de git
 haciendo pruebas de checkout con commit
 experimento 1
+experimento 2
 Master 1
 Master 2
