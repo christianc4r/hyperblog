@@ -2,3 +2,4 @@ hola esto es una prueba
 del curso de git
 haciendo pruebas de checkout con commit
 Master 1
+Master 2
